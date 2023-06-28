@@ -1,0 +1,11 @@
+name,age,is_male,height,years_studied,is_working
+Roland,22,True,2,3,False
+Roberta,34,False,2,5,True
+Martine,44,False,2,3,True
+Pablo,26,True,2,8,False
+Alain,56,True,2,0,True
+Jean-Paul,24,True,2,3,False
+Pedro,30,True,2,4,False
+Marjolaine,22,False,2,0,True
+Georgette,45,True,2,8,False
+Bernadette,56,False,2,4,False
